@@ -1,1 +1,1 @@
-# blowup-store
+# glowup-store
